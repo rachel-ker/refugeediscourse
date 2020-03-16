@@ -1,9 +1,8 @@
-# How has the discourse on refugees changed over time?
+# How has the media portrayed refugees over time? A study of liberal and conservative media perspectives on refugees.
 
 ## Description
-This is a final project for the Computational Content Analysis class. We intend to study the discourse of refugees over time on various mediums, on both traditional media of news and magazines as well as on twitter.
+This is a final project for the Computational Content Analysis class. We intend to study how the media has protrayed refugees over time, particularly comparing liberal and conservative media sources in COCA.
 
 ## Data
-* Twitter Data (scrapped top 10 daily tweets with the query of 'refugee' from 2006 to 2019)
-* COCA corpus data (spoken, news and magazine genres that has 'refugee' in text)
+* COCA corpus data 1990-2015 (spoken, news and magazine genres that has 'refugee' in text)
 
