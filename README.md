@@ -11,6 +11,7 @@ This is a final project for the Computational Content Analysis class. We intend 
 * data_preparation.ipynb - Tokenizes and Noramlizes dataset and saves it in a pickle
 * final_data_analysis.ipynb - Data Preparation, Topic Modelling and Word2vec 
   * data_ldaseq_5yr_left, data_ldaseq_5yr_right: dynamic topic modelling results saved
+  * topics_results.ipynb - exploring dynamic topic model results
 * BERT_LSTM_models.ipynb - Classification using BERT and LSTM
 * BERT_sentiment_textgeneration.ipynb - Sentiment and Text Generation results
 
