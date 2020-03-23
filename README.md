@@ -8,7 +8,6 @@ This is a final project for the Computational Content Analysis class. We intend 
 
 ## Files
 * getting_coca_data.ipynb - Retrieves relevant dataset for analysis
-* data_preparation.ipynb - Tokenizes and Noramlizes dataset and saves it in a pickle
 * final_data_analysis.ipynb - Data Preparation, Topic Modelling and Word2vec 
   * data_ldaseq_5yr_left, data_ldaseq_5yr_right: dynamic topic modelling results saved
   * topics_results.ipynb - exploring dynamic topic model results
